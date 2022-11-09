@@ -1,0 +1,50 @@
+html{
+    font-size:100%;
+}
+
+body{
+    width:75%;
+    margin:auto;
+    background-color: #a0aecd;
+}
+
+.horibol-png {
+    color: grey;
+    font-style: italic;
+    text-align: center;
+    
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    align-content: center;
+}
+
+
+h3 {font-size: 1.85rem;
+   color: #000000; 
+}
+
+
+p{
+    color: #000000;
+    font-size: 1.2rem;
+    max-width: 780px;
+}
+
+
+/* img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+} */
+
+/* background color and image 
+text
+image
+video
+alignment
+spacing 
+margins
+font */
